@@ -1,10 +1,11 @@
-# Linear, Ridge, and Lasso Regression Study and Model Building
+# AI Learning Notebooks
 
-This Jupyter notebook is dedicated to exploring the fundamentals of linear, ridge, and lasso regression. It includes:
+This repository contains Google Colab notebooks documenting my journey in machine learning, data science, mathematics, and AI-related topics.
 
-* A study of the linear, ridge, and lasso regression concepts and their mathematical foundations.  
-* Implementation and training of linear, ridge, and lasso regression models using Python.  
-* Building a custom linear regression model from scratch to deepen understanding.  
-* Evaluation of model performance using relevant metrics.  
+Each notebook focuses on a specific concept or project, including:
+- Data exploration and preprocessing
+- Machine learning algorithms and their mathematical foundations
+- Model implementation and evaluation
+- Custom implementations to deepen understanding
 
-The goal of this notebook is to gain hands-on experience with linear, ridge, and lasso regression both through existing libraries and custom implementations, enhancing practical and theoretical knowledge in machine learning.
+More details about each topic, along with explanations and step-by-step breakdowns, are provided inside the individual notebooks.
